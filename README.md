@@ -1,7 +1,7 @@
 A simple responsive website that showcases a software engineer's academic schedule and resume.
 The website is built with HTML, CSS & Bootstrap 5. It uses HTML Include snippets and js functions for content abstraction.
 
-GitHub: https://github.com/tigerhostsolutions/spydertutorials.git
+GitHub: https://github.com/tigerhostsolutions/spyder.git
 Main Website: https://spyder.tigerhost.domains/
 
 **--------------------------**
